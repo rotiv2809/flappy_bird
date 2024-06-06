@@ -5,6 +5,7 @@ import os
 import random
 import neat
 
+#para jogar, mude ai_jogando para False
 ai_jogando = True
 geracao = 0
 
